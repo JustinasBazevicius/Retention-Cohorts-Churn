@@ -1,5 +1,5 @@
 # Retention, Cohorts & Churn
-In this project, I wrote SQL queries to analyze weekly retention and churn percentages for subscription cohorts. The focus was on calculating retention for user cohorts, tracking their activity over a 6-week period, and deriving churn percentages from retention data to uncover key insights related to subscription behavior.
+In this project, I wrote SQL queries to analyze weekly retention  for subscription cohorts. The focus was on calculating retention for user cohorts, tracking their activity over a 6-week period, and deriving churn percentages from retention data to uncover key insights related to subscription behavior.
 
 Cohort Analysis:
 I extracted and analyzed data for users who started their subscriptions within a specific week. The cohort was tracked over the following 6 weeks to evaluate retention and churn.
